@@ -3,9 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learnling system.
-- 🌱 I’m currently learning miaosha system.
+- 🌱 I’m currently learning miaosha design & dev.
 - 👯 I’m looking to collaborate on soft devlope.
-
 - 📫 How to reach me: rateyu@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
